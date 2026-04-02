@@ -1,483 +1,430 @@
 {
+  "config": {
+    "s1_b": "",
+    "s2_b": "",
+    "l1_b": "",
+    "l2_b": ""
+  },
   "channels": [
     {
-      "name": "Mi Pelicula",
-      "estado": "en vivo",
-      "genero": "diverso",
-      "logo": "https://i.imgur.com/C9WxFHA.png",
-      "url": "https://live-evg5.tv360.bitel.com.pe/bitel/mipeliculaSRT/chunks.m3u8?uid=8209793",
-      "category": "Peliculas"
+      "n": "TWkgUGVsaWN1bGE=",
+      "l": "aHR0cHM6Ly9pLmltZ3VyLmNvbS9DOVd4RkhBLnBuZw==",
+      "s1": "aHR0cHM6Ly9saXZlLWV2ZzUudHYzNjAuYml0ZWwuY29tLnBlL2JpdGVsL21pcGVsaWN1bGFTUlQvY2h1bmtzLm0zdTg/dWlkPTgyMDk3OTM=",
+      "s2": "",
+      "li": 1
     },
     {
-      "name": "Wow movies",
-"estado": "en vivo",
-      "genero": "diverso",
-      "logo": "https://i.imgur.com/dhxytky.png",
-      "url": "https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/chunks.m3u8",
-      "category": "Peliculas"
-    },
-     {
-      "name": "Invasiva avi",
-"estado": "en vivo",
-       "genero": "diverso",
-      "logo": "https://i.imgur.com/kxDSSrY.png",
-      "url": "https://mitv.zplay.cl/Invasiva/tracks-v1a1/mono.m3u8",
-      "category": "Peliculas"
+      "n": "V293IG1vdmllcw==",
+      "l": "aHR0cHM6Ly9pLmltZ3VyLmNvbS9kaHh5dGt5LnBuZw==",
+      "s1": "aHR0cHM6Ly9saXZlMjAuYm96enR2LmNvbS9naWF0di9naWF0di13b3dtb3ZpZXMvd293bW92aWVzL2NodW5rcy5tM3U4",
+      "s2": "",
+      "li": 1
     },
     {
-      "name": "FMHMovies",
-"estado": "en vivo",
-      "genero": "accion, aventura, fantasia",
-      "logo": "https://i.imgur.com/4xEmxu1.png",
-      "url": "https://live-evg18.tv360.bitel.com.pe/bitel/fmhmovies_abr/bitel/fmhmovies_720p/chunks.m3u8",
-      "category": "Peliculas"
+      "n": "SW52YXNpdmEgYXZp",
+      "l": "aHR0cHM6Ly9pLmltZ3VyLmNvbS9reERTU3pZLnBuZw==",
+      "s1": "aHR0cHM6Ly9taXR2LnpwbGF5LmNsL0ludmFzaXZhL3RyYWNrcy12MWExL21vbm8ubTN1OA==",
+      "s2": "",
+      "li": 1
     },
     {
-      "name": "FMHKids",
-"estado": "en vivo",
-      "genero": "animacion",
-      "logo": "https://i.imgur.com/5CSuza7.png",
-      "url": "https://live-evg18.tv360.bitel.com.pe/bitel/fmhkids_abr/bitel/fmhkids_720p/chunks.m3u8",
-      "category": "Peliculas"
+      "n": "Rk1ITW92aWVz",
+      "l": "aHR0cHM6Ly9pLmltZ3VyLmNvbS80eEVteHUxLnBuZw==",
+      "s1": "aHR0cHM6Ly9saXZlLWV2ZzE4LnR2MzYwLmJpdGVsLmNvbS5wZS9iaXRlbC9mbWhtb3ZpZXNfYWJyL2JpdGVsL2ZtaG1vdmllc183MjBwL2NodW5rcy5tM3U4",
+      "s2": "",
+      "li": 1
     },
     {
-      "name": "Bayres tv",
-"estado": "en vivo",
-      "genero": "accion, fantasia, drama",
-      "logo": "https://i.imgur.com/AV6FabN.png",
-      "url": "https://streaming01.mikrolive.tv/bayrestv/live/chunklist_w1735478623.m3u8",
-      "category": "Peliculas"
+      "n": "Rk1IS2lkcw==",
+      "l": "aHR0cHM6Ly9pLmltZ3VyLmNvbS81Q1N1U0E3LnBuZw==",
+      "s1": "aHR0cHM6Ly9saXZlLWV2ZzE4LnR2MzYwLmJpdGVsLmNvbS5wZS9iaXRlbC9mbWhraWRzX2Fici9iaXRlbC9mbWhraWRzXzcyMHAvY2h1bmtzLm0zdTg=",
+      "s2": "",
+      "li": 1
     },
     {
-      "name": "Big Channel",
-"estado": "en vivo",
-      "genero": "diverso",
-      "logo": "https://i.imgur.com/h3Vmx54.png",
-      "url": "https://live20.bozztv.com/giatv/giatv-bigtv/bigtv/chunks.m3u8",
-      "category": "Peliculas"
-    },
-{
-      "name": "fm cosmo tv",
-"estado": "en vivo",
-  "genero": "diverso",
-      "logo": "https://i.imgur.com/FYFZt9t.png",
-      "url": "https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8",
-      "category": "Peliculas"
-    },
-{
-      "name": "Mega cine",
-"estado": "en vivo",
-  "genero": "diverso",
-      "logo": "https://i.ibb.co/H4Hxv9B/2893-294x165-FFFFFF-11zon.webp",
-      "url": "https://cnn.hostlagarto.com/megacinetv/tracks-v1a1/mono.m3u8",
-      "category": "Peliculas"
-    },
-{
-      "name": "Vision tv",
-"estado": "en vivo",
-  "genero": "diverso",
-      "logo": "https://i.imgur.com/gK6BYlp.png",
-      "url": "https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8",
-      "category": "Peliculas"
-    },
-{
-      "name": "Monitos Tv",
-"estado": "en vivo",
-  "genero": "diverso",
-      "logo": "https://neotv.cl/assets/img/channels/monitv.png",
-      "url": "https://live20.bozztv.com/akamaissh101/ssh101/monitvhd/chunks.m3u8",
-      "category": "Peliculas"
-    },
-{
-      "name": "Wow tv",
-"estado": "en vivo",
-  "genero": "aventura, accion",
-      "logo": "https://www.wowelsalvador.com/imagen/logo2.png",
-      "url": "https://cdn-edge2.cef-technology.com/wow/wow_tv/chunks.m3u8?nimblesessionid=6395845",
-      "category": "Peliculas"
-    },
-{
-      "name": "Gen TV",
-"estado": "en vivo",
-  "genero": "diverso",
-      "logo": "https://i.imgur.com/qGddRW4.png",
-      "url": "https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8",
-      "category": "Peliculas"
-    },
-{
-      "name": "Orbit tv",
-"estado": "en vivo",
-  "genero": "diverso",
-      "logo": "https://i.imgur.com/gmMKLvu.png",
-      "url": "https://mlb.essastream.com:8081/orbittv/index.m3u8",
-      "category": "Peliculas"
+      "n": "QmF5cmVzIHR2",
+      "l": "aHR0cHM6Ly9pLmltZ3VyLmNvbS9BVjZGYWJOLnBuZw==",
+      "s1": "aHR0cHM6Ly9zdHJlYW1pbmcwMS5taWtyb2xpdmUudHYvYmF5cmVzdHYvbGl2ZS9jaHVua2xpc3RfdzE3MzU0Nzg2MjMubTN1OA==",
+      "s2": "",
+      "li": 1
     },
     {
-      "name": "Neo tv",
-"estado": "en vivo",
-      "genero": "diverso",
-      "logo": "https://neotvdigital.com.ar/imagenes/logo1.png",
-      "url": "https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8",
-      "category": "Peliculas"
-    },
-{
-      "name": "Mix Bolivia tv",
-"estado": "en vivo",
-  "genero": "Animacion",
-      "logo": "https://www.gogoplaytv.com/images/boton%202m-u437151-fr.png",
-      "url": "https://giatv.bozztv.com/giatv/giatv-NEOMIXHD/NEOMIXHD/chunks.m3u8",
-      "category": "Peliculas"
+      "n": "QmlnIENoYW5uZWw=",
+      "l": "aHR0cHM6Ly9pLmltZ3VyLmNvbS9oM1ZteDU0LnBuZw==",
+      "s1": "aHR0cHM6Ly9saXZlMjAuYm96enR2LmNvbS9naWF0di9naWF0di1iaWd0di9iaWd0di9jaHVua3MubTN1OA==",
+      "s2": "",
+      "li": 1
     },
     {
-      "name": "Next TV",
-"estado": "en vivo",
-      "genero": "diverso",
-      "logo": "https://i.imgur.com/DlMDN1L.png",
-      "url": "https://live.enhdtv.com:19360/nexthd/nexthd.m3u8",
-      "category": "Peliculas"
+      "n": "Zm0gY29zbW8gdHY=",
+      "l": "aHR0cHM6Ly9pLmltZ3VyLmNvbS9GWUZaRDl0LnBuZw==",
+      "s1": "aHR0cHM6Ly90di5tZWRpYWNwLmV1OjE5MzYwL2Nvc21vcy9jb3Ntb3MubTN1OA==",
+      "s2": "",
+      "li": 1
     },
     {
-      "name": "Zurqui tv",
-"estado": "en vivo",
-      "genero": "diverso",
-      "logo": "https://i.imgur.com/GcfUOiV.png",
-      "url": "https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8",
-      "category": "Peliculas"
-    },
-{
-      "name": "Kanade",
-"estado": "en vivo",
-  "genero": "Animacion",
-      "logo": "https://i.imgur.com/BllkzYT.png",
-      "url": "https://static.kanade.cl/hls/kanade.m3u8",
-      "category": "Anime"
+      "n": "TWVnYSBjaW5l",
+      "l": "aHR0cHM6Ly9pLmliYi5jby9INEh4djlCLzI4OTMtMjk0eDE2NS1GRkZGRkZGLTExem9uLndlYnA=",
+      "s1": "aHR0cHM6Ly9jbm4uaG9zdGxhZ2FydG8uY29tL21lZ2FjaW5ldHYvdHJhY2tzLXYxYTEvbW9uby5tM3U4",
+      "s2": "",
+      "li": 1
     },
     {
-      "name": "Anima kids",
-"estado": "en vivo",
-      "genero": "Animacion",
-      "logo": "https://i.imgur.com/HFO4lOU.png",
-      "url": "https://live-evg8.tv360.bitel.com.pe/bitel/animakids/chunks.m3u8?uid=8209793",
-      "category": "Anime"
+      "n": "VmlzaW9uIHR2",
+      "l": "aHR0cHM6Ly9pLmltZ3VyLmNvbS9nSzZCWWxwLnBuZw==",
+      "s1": "aHR0cHM6Ly9jZG4uc3RyZWFtaGlzcGFuYXR2Lm5ldDozMDc2L2xpdmUvdmlzaW9udHZsaXZlLm0zdTg=",
+      "s2": "",
+      "li": 1
     },
     {
-      "name": "Etc tv",
-"estado": "en vivo",
-      "genero": "Animacion",
-      "logo": "https://i.postimg.cc/zBjGz3dQ/Logoetctv.png",
-      "url": "http://45.181.122.46:8090/play/a00t",
-      "category": "Anime"
+      "n": "TW9uaXRvcyBUdg==",
+      "l": "aHR0cHM6Ly9uZW90di5jbC9hc3NldHMvaW1nL2NoYW5uZWxzL21vbml0di5wbmc=",
+      "s1": "aHR0cHM6Ly9saXZlMjAuYm96enR2LmNvbS9ha2FtYWlzc2gxMDEvc3NoMTAxL21vbml0dmhkL2NodW5rcy5tM3U4",
+      "s2": "",
+      "li": 1
     },
     {
-      "name": "teleanimemania latino",
-"estado": "en vivo",
-      "genero": "Animacion",
-      "logo": "https://i.imgur.com/fvggCwg.png",
-      "url": "https://live20.bozztv.com/giatvplayout7/giatv-210634/tracks-v1a1/mono.ts.m3u8",
-      "category": "Anime"
+      "n": "V293IHR2",
+      "l": "aHR0cHM6Ly93d3cud293ZWxzYWx2YWRvci5jb20vaW1hZ2VuL2xvZ28yLnBuZw==",
+      "s1": "aHR0cHM6Ly9jZG4LWVkZ2UyLmNlZi10ZWNobm9sb2d5LmNvbS93b3cvd293X3R2L2NodW5rcy5tM3U4P25pbWJsZXNlc3Npb25pZD02Mzk1ODQ1",
+      "s2": "",
+      "li": 1
     },
     {
-      "name": "Anifun",
-"estado": "en vivo",
-      "genero": "Animacion",
-      "logo": "https://i.imgur.com/otx8M4S.png",
-      "url": "https://live20.bozztv.com/giatv/giatv-FunTVEste/FunTVEste/chunks.m3u8",
-      "category": "Anime"
-    },
-{
-      "name": "Magic Kids",
-"estado": "en vivo",
-  "genero": "Animacion",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Logomagic96.png",
-      "url": "https://kiiroilabs.ddns.net/magickids/stream/stream.m3u8",
-      "category": "Anime"
+      "n": "R2VuIFRWIg==",
+      "l": "aHR0cHM6Ly9pLmltZ3VyLmNvbS9xR2RkUlc0LnBuZw==",
+      "s1": "aHR0cHM6Ly9zcnYzLnpjYXN0LmNvbS5ici9nZW50di9nZW50di9wbGF5bGlzdC5tM3U4",
+      "s2": "",
+      "li": 1
     },
     {
-      "name": "Retro Magico",
-"estado": "en vivo",
-  "genero": "Animacion",
-      "logo": "https://static.wixstatic.com/media/3ebf2e_6c71f9a7aa66459ea6140c872c515467~mv2.png/v1/fill/w_135,h_66,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Logo%20letras%203d.png",
-      "url": "https://live20.bozztv.com/akamaissh101/ssh101/retromagicochnl/chunks.m3u8",
-      "category": "Anime"
+      "n": "T3JiaXQgdHY=",
+      "l": "aHR0cHM6Ly9pLmltZ3VyLmNvbS9nbU1LTHZ1LnBuZw==",
+      "s1": "aHR0cHM6Ly9tbGImVzc2FzdHJlYW0uY29tOjgwODEvb3JiaXR0di9pbmRleC5tM3U4",
+      "s2": "",
+      "li": 1
     },
     {
-      "name": "Anime Station",
-"estado": "en vivo",
-      "genero": "Animacion",
-      "logo": "https://i.imgur.com/TWFJFx2.png",
-      "url": "https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/chunks.m3u8",
-      "category": "Anime"
-    },
-{
-      "name": "Goku tv",
-"estado": "en vivo",
-  "genero": "Animacion",
-      "logo": "https://i.imgur.com/KtioMXW.png",
-      "url": "https://live20.bozztv.com/giatv/giatv-dball/dball/chunks.m3u8",
-      "category": "Anime"
-    },
-{
-      "name": "Zyoon TV",
-"estado": "en vivo",
-  "genero": "Animacion",
-      "logo": "https://i.imgur.com/kcR0Q5U.png",
-      "url": "https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/chunks.m3u8",
-      "category": "Anime"
+      "n": "TmVvIHR2",
+      "l": "aHR0cHM6Ly9uZW90dmRpZ2l0YWwuY29tLmFyL2ltYWdlbmVzL2xvZ28xLnBuZw==",
+      "s1": "aHR0cHM6Ly92aWRlb3N0cmVhbS5zaG9ja21lZGlhLmNvbS5hcjoxOTM2MC9uZW90dmRpZ2l0YWwvbmVvdHZkaWdpdGFsLm0zdTg=",
+      "s2": "",
+      "li": 1
     },
     {
-      "name": "Max Anime",
-"estado": "en vivo",
-      "genero": "Animacion",
-      "logo": "https://i.imgur.com/FRrCEgO.png",
-      "url": "https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8",
-      "category": "Anime"
-    },
-{
-      "name": "Toonami",
-"estado": "en vivo",
-  "genero": "Animacion",
-      "logo": "https://i.imgur.com/JUz4bCj.png",
-      "url": "https://live20.bozztv.com/giatv/giatv-ToonamiTV/ToonamiTV/chunks.m3u8",
-      "category": "Anime"
-    },
-{
-      "name": "Talta tv",
-"estado": "en vivo",
-  "genero": "Animacion",
-      "logo": "https://i.imgur.com/6bpmTEY.png",
-      "url": "https://live20.bozztv.com/giatv/giatv-TALTALPELICULAS/TALTALPELICULAS/chunks.m3u8",
-      "category": "Anime"
+      "n": "TWl4IEJvbGl2aWEgdHY=",
+      "l": "aHR0cHM6Ly93d3cuZ29nb3BsYXl0di5jb20vaW1hZ2VzL2JvdG9uJTIwMm0tdTQzNzE1MS1mci5wbmc=",
+      "s1": "aHR0cHM6Ly9naWF0di5ib3p6dHYuY29tL2dpYXR2L2dpYXR2LU5FT01JWEhEL05FT01JWEhEL2NodW5rcy5tM3U4",
+      "s2": "",
+      "li": 1
     },
     {
-      "name": "Talta tv mix",
-"estado": "en vivo",
-      "genero": "Animacion",
-      "logo": "https://i.imgur.com/46WXxu8.png",
-      "url": "https://live20.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/chunks.m3u8",
-      "category": "Anime"
+      "n": "TmV4dCBUVg==",
+      "l": "aHR0cHM6Ly9pLmltZ3VyLmNvbS9EbE1ETjFMLnBuZw==",
+      "s1": "aHR0cHM6Ly9saXZlLmVuaGR0di5jb206MTkzNjAvbmV4dGhkL25leHRoZC5tM3U4",
+      "s2": "",
+      "li": 1
     },
     {
-      "name": "Taltal anime",
-"estado": "en vivo",
-      "genero": "Animacion",
-      "logo": "https://i.imgur.com/AchfGGu.png",
-      "url": "https://live20.bozztv.com/giatv/giatv-TALTALTVANIMACION2/TALTALTVANIMACION2/chunks.m3u8",
-      "category": "Anime"
-    },
-{
-      "name": "Gogoplay TV",
-"estado": "en vivo",
-  "genero": "Animacion",
-      "logo": "https://i.imgur.com/zAWE9O4.png",
-      "url": "https://live20.bozztv.com/akamaissh101/ssh101/gogoplay/playlist.m3u8",
-      "category": "Anime"
+      "n": "WnVycXVpIHR2",
+      "l": "aHR0cHM6Ly9pLmltZ3VyLmNvbS9HY2ZVT2lWLnBuZw==",
+      "s1": "aHR0cHM6Ly92aWRlb3NlcnZlci50bWNcmVhdGl2b3MuY29tOjE5MzYwL2dlc2ZudnBhmbi9nZXNmbnZwYW1uLm0zdTg=",
+      "s2": "",
+      "li": 1
     },
     {
-      "name": "Dreiko TV",
-"estado": "en vivo",
-      "genero": "Animacion",
-      "logo": "https://i.imgur.com/9l6N1wr.png",
-      "url": "https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8",
-      "category": "Anime"
-    },
-     {
-      "name": "ZAZ Tv",
-"estado": "en vivo",
-      "genero": "Animacion",
-      "logo": "https://i.imgur.com/9fBPEzu.png",
-      "url": "https://playback.livepeer.studio/hls/132ekew5u1m403gy/index.m3u8?tkn=XajD8CdOgr7uqtCKZyKHcJ",
-      "category": "Anime"
+      "n": "S2FuYWRl",
+      "l": "aHR0cHM6Ly9pLmltZ3VyLmNvbS9CbGxrellULnBuZw==",
+      "s1": "aHR0cHM6Ly9zdGF0aWMua2FuYWRlLmNsL2hscy9rYW5hZGUubTN1OA==",
+      "s2": "",
+      "li": 1
     },
     {
-      "name": "Locomotion",
-"estado": "en vivo",
-      "genero": "Animacion",
-      "logo": "https://i.imgur.com/lrYLU4H.png",
-      "url": "https://live20.bozztv.com/giatvplayout7/giatv-210075/tracks-v1a1/mono.ts.m3u8",
-      "category": "Anime"
+      "n": "QW5pbWEga2lkcw==",
+      "l": "aHR0cHM6Ly9pLmltZ3VyLmNvbS9IRk80bE9VLnBuZw==",
+      "s1": "aHR0cHM6Ly9saXZlLWV2ZzguRHYzNjAuYml0ZWwuY29tLnBlL2JpdGVsL2FuaW1ha2lkcy9jaHVua3MubTN1OD91aWQ9ODIwOTc5Mw==",
+      "s2": "",
+      "li": 1
     },
     {
-      "name": "Teleanimemania",
-"estado": "en vivo",
-      "genero": "Animacion",
-      "logo": "https://i.imgur.com/h8miDFW.png",
-      "url": "https://live20.bozztv.com/giatvplayout7/giatv-209474/tracks-v1a1/mono.ts.m3u8",
-      "category": "Anime"
-    },
-{
-      "name": "Retrotv",
-"estado": "en vivo",
-  "genero": "Animacion",
-      "logo": "https://i.imgur.com/YBakeNZ.png",
-      "url": "https://live21.bozztv.com/akamaissh101/ssh101/retrotvcr2025/chunks.m3u8",
-      "category": "Retro"
+      "n": "RXRjIHR2",
+      "l": "aHR0cHM6Ly9pLnBvc3RpbWcuY2MvelJqR3ozZFEvTG9nb2V0Y3R2LnBuZw==",
+      "s1": "aHR0cDovLzQ1LjE4MS4xMjIuNDY6ODA5MC9wbGF5L2EwMHQ=",
+      "s2": "",
+      "li": 1
     },
     {
-      "name": "Best clasicos",
-"estado": "en vivo",
-      "genero": "Retro, aventura",
-      "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3896-294x165-FFFFFF.jpg",
-      "url": "https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8",
-      "category": "Retro"
+      "n": "dGVsZWFuaW1lbWFuaWEgbGF0aW5v",
+      "l": "aHR0cHM6Ly9pLmltZ3VyLmNvbS9mdmdnQ3dnLnBuZw==",
+      "s1": "aHR0cHM6Ly9saXZlMjAuYm96enR2LmNvbS9naWF0dnBsYXlvdXQ3L2dpYXR2LTIxMDYzNC90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg=",
+      "s2": "",
+      "li": 1
     },
     {
-      "name": "Teleclasica",
-"estado": "en vivo",
-       "genero": "Retro, aventura",
-      "logo": "https://i.imgur.com/yELGuZE.png",
-      "url": "https://live20.bozztv.com/akamaissh101/ssh101/teleclasik/chunks.m3u8",
-      "category": "Retro"
-    },
-     {
-      "name": "Mega tv",
-"estado": "en vivo",
-        "genero": "Retro, aventura",
-      "logo": "https://i.imgur.com/4If3CLR.png",
-      "url": "https://live-evg5.tv360.bitel.com.pe/bitel/megatv/chunks.m3u8?uid=8209793",
-      "category": "Retro"
-    },
-{
-      "name": "Caracola Tv",
-"estado": "en vivo",
-   "genero": "Retro, aventura",
-      "logo": "https://i.imgur.com/q5106PD.png",
-      "url": "https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/chunks.m3u8?nimblesessionid=300453591",
-      "category": "Retro"
-    },
-{
-      "name": "Frecuencia Musical Tv",
-"estado": "en vivo",
-   "genero": "Retro, aventura",
-      "logo": "https://i.imgur.com/gcvQt71.png",
-      "url": "https://s2.tvdatta.com:3307/hybrid/play.m3u8",
-      "category": "Retro"
-    },
-{
-      "name": "Retrox Tv",
-"estado": "en vivo",
-   "genero": "Retro, aventura",
-      "logo": "https://i.imgur.com/CRRJd0R.png",
-      "url": "https://live20.bozztv.com/giatv/giatv-RTVN/RTVN/chunks.m3u8",
-      "category": "Retro"
-    },  
-{
-      "name": "Retro Tv Palmares",
-"estado": "en vivo",
-   "genero": "Retro, aventura",
-      "logo": "https://i.imgur.com/jzRhrMX.png",
-      "url": "https://live20.bozztv.com/akamaissh101/ssh101/tvretropalm2020/chunks.m3u8",
-      "category": "Retro"
+      "n": "QW5pZnVu",
+      "l": "aHR0cHM6Ly9pLmltZ3VyLmNvbS9vdHhNOFNzLnBuZw==",
+      "s1": "aHR0cHM6Ly9saXZlMjAuYm96enR2LmNvbS9naWF0di9naWF0di1GdW5UVkVzdGUvRnVuVFZFc3RlL2NodW5rcy5tM3U4",
+      "s2": "",
+      "li": 1
     },
     {
-      "name": "Tigueritos TV",
-"estado": "en vivo",
-       "genero": "Retro, aventura",
-      "logo": "https://i.imgur.com/ZpthDIy.jpeg",
-      "url": "https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/chunklist_w872116142.m3u8",
-      "category": "Retro"
+      "n": "TWFnaWMgS2lkcw==",
+      "l": "aHR0cHM6Ly91cGxvYWQud2lraW1lZGlhLm9yZy93aWtpcGVkaWEvY29tbW9ucy9kL2Q2L0xvZ29tYWdpYzk2LnBuZw==",
+      "s1": "aHR0cHM6Ly9raWlyb2lsYWJzLmRkbnMubmV0L21hZ2lja2lkcy9zdHJlYW0vc3RyZWFtLm0zdTg=",
+      "s2": "",
+      "li": 1
     },
     {
-      "name": "TV Clasica",
-"estado": "en vivo",
-       "genero": "Retro, aventura",
-      "logo": "https://i.ibb.co/L1Q70jL/Logo-Mi-TV-Television-Clasica.png",
-      "url": "https://mitv.getstreamhosting.com:1936/live/live/chunklist_w1857180799.m3u8",
-      "category": "Retro"
+      "n": "UmV0cm8gTWFnaWNv",
+      "l": "aHR0cHM6Ly9zdGF0aWMud2l4c3RhdGljLmNvbS9tZWRpYS8zZWJmMmVfNmM3MWY5YTdhYTY2NDU5ZWE2MTQwYzg3MmM1MTU0Njd+bXYyLnBuZy92MS9maWxsL3dfMTM1LGhfNjYsYWxfYyxxLDg1L3VzbV8wLjY2XzEuMDBfMC4wMSxlbmNfYXZpZixxdWFsaXR5X2F1dG8vTG9nbyUyMGxldHJhcyUyMDNkLnBuZw==",
+      "s1": "aHR0cHM6Ly9saXZlMjAuYm96enR2LmNvbS9ha2FtYWlzc2gxMDEvc3NoMTAxL3JldHJvbWFnaWNvY2hubC9jaHVua3MubTN1OA==",
+      "s2": "",
+      "li": 1
     },
     {
-      "name": "TDTv",
-"estado": "en vivo",
-       "genero": "Retro, aventura",
-      "logo": "https://i.imgur.com/7hzRkcs.png",
-      "url": "https://cloudvideo.servers10.com:8081/8230/tracks-v1a1/mono.m3u8",
-      "category": "Retro"
+      "n": "QW5pbWUgU3RhdGlvbg==",
+      "l": "aHR0cHM6Ly9pLmltZ3VyLmNvbS9UV0ZKRngyLnBuZw==",
+      "s1": "aHR0cHM6Ly9saXZlMjAuYm96enR2LmNvbS9ha2FtYWlzc2gxMDEvc3NoMTAxL2xpdmVzdHJlYW1pbmd0di9jaHVua3MubTN1OA==",
+      "s2": "",
+      "li": 1
     },
     {
-      "name": "Gam tv",
-"estado": "en vivo",
-      "genero": "Retro, aventura, diverso",
-      "logo": "https://i.imgur.com/lMTpNr8.png",
-      "url": "https://v2.azulstream.com:8081/gamtv/gamtv/tracks-v1a1/mono.m3u8",
-      "category": "Variado"
+      "n": "R29rdSB0dg==",
+      "l": "aHR0cHM6Ly9pLmltZ3VyLmNvbS9LdGlvTVhXLnBuZw==",
+      "s1": "aHR0cHM6Ly9saXZlMjAuYm96enR2LmNvbS9naWF0di9naWF0di1kYmFsbC9kYmFsbC9jaHVua3MubTN1OA==",
+      "s2": "",
+      "li": 1
     },
     {
-      "name": "Planeta Channel",
-"estado": "en vivo",
-      "genero": "Retro, aventura, diverso",
-      "logo": "https://planetaradiotv.com/wp-content/uploads/2021/08/cropped-logo-new-Planeta-2-114x83.png",
-      "url": "https://live20.bozztv.com/akamaissh101/ssh101/planeta55tv/chunks.m3u8",
-      "category": "Variado"
-    },
-{
-      "name": "Imvasiva Media",
-"estado": "en vivo",
-  "genero": "Retro, aventura, diverso",
-      "logo": "https://i.ibb.co/C7NPTsT/Logo-Invasiva-Media.jpg",
-      "url": "https://tv.invasivamedia.com/hls/limtv.m3u8",
-      "category": "Variado"
+      "n": "Wnlvb24gVFY=",
+      "l": "aHR0cHM6Ly9pLmltZ3VyLmNvbS9rY1IwUTVVLnBuZw==",
+      "s1": "aHR0cHM6Ly9saXZlMjAuYm96enR2LmNvbS9naWF0di9naWF0di1aWU9PTlRWL1pZT09OVFYvY2h1bmtzLm0zdTg=",
+      "s2": "",
+      "li": 1
     },
     {
-      "name": "telelima",
-"estado": "en vivo",
-      "genero": "Retro, aventura, diverso",
-      "logo": "https://i.imgur.com/83AWZCO.png",
-      "url": "https://live-evg11.tv360.bitel.com.pe/bitel/telelimaSRT/chunks.m3u8?uid=8209793",
-      "category": "Variado"
-    },
-{
-      "name": "Extrema TV Kids",
-"estado": "en vivo",
-  "genero": "Retro, aventura, animacion",
-      "logo": "https://i.ibb.co/wYbrT2X/Logo-Extrema-TV-Kids.png",
-      "url": "https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8",
-      "category": "Variado"
-    },
-{
-      "name": "Pitufo TV",
-"estado": "en vivo",
-  "genero": "Retro, aventura, animacion",
-      "logo": "https://i.ibb.co/TvH9gvB/Logo-Pitufo-TV.png",
-      "url": "https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8",
-      "category": "Variado"
+      "n": "TWF4IEFuaW1l",
+      "l": "aHR0cHM6Ly9pLmltZ3VyLmNvbS9GUnJDRWdPLnBuZw==",
+      "s1": "aHR0cHM6Ly9zdHJlYW1sb3YuYWxzb2xuZXQuY29tL21heGFuaW1lL2xpdmUvcGxheWxpc3QubTN1OA==",
+      "s2": "",
+      "li": 1
     },
     {
-      "name": "Real Madrid tv",
-"estado": "en vivo",
-      "genero": "Deporte",
-      "logo": "https://i.imgur.com/NknFWnx.png",
-      "url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8",
-      "category": "Deporte"
-    },
-{
-      "name": "Kpop",
-"estado": "en vivo",
-  "genero": "Musica",
-      "logo": "https://neotv.cl/assets/img/channels/kpop-tv.png",
-      "url": "https://live20.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8",
-      "category": "Musica"
-    },
-{
-      "name": "Planeta tv",
-"genero": "Musica",
-      "logo": "https://i.imgur.com/G8sw9hz.png",
-      "url": "https://tls-cl.cdnz.cl/planetatv/live/chunklist_w42654870.m3u8",
-      "category": "Musica"
+      "n": "VG9vbmFtaQ==",
+      "l": "aHR0cHM6Ly9pLmltZ3VyLmNvbS9KVXo0YkNqLnBuZw==",
+      "s1": "aHR0cHM6Ly9saXZlMjAuYm96enR2LmNvbS9naWF0di9naWF0di1Ub29uYW1pVFYvVG9vbmFtaVRWL2NodW5rcy5tM3U4",
+      "s2": "",
+      "li": 1
     },
     {
-      "name": "TopLatino",
-"estado": "en vivo",
-      "genero": "Musica",
-      "logo": "https://i.imgur.com/DRbKglx.png",
-      "url": "https://5cefcbf58ba2e.streamlock.net:543/webtltv/webtltv.stream/chunklist_w1651724738_tkd293emF0b2tlbnN0YXJ0dGltZT0xNzY0MDMwMTc1Jndvd3phdG9rZW5lbmR0aW1lPTE3NjQwMzExNzUmd293emF0b2tlbmhhc2g9RXJXUXZCQVA2S3BjM0Z2ZWpfTm5ERkV6Z1dxRDlWcDIxcmZySW9fcDNvND0=.m3u8",
-      "category": "Musica"
+      "n": "VGFsdGEgdHY=",
+      "l": "aHR0cHM6Ly9pLmltZ3VyLmNvbS82YnBtVEVPLnBuZw==",
+      "s1": "aHR0cHM6Ly9saXZlMjAuYm96enR2LmNvbS9naWF0di9naWF0di1UQUxUQUxQRUxJQ1VMQVMvVEFMVEFMUEVMSUNVTEFTL2NodW5rcy5tM3U4",
+      "s2": "",
+      "li": 1
     },
     {
-      "name": "Hits mexicano",
-"estado": "en vivo",
-      "genero": "Musica",
-      "logo": "https://a.jsrdn.com/hls/23195/hits-mexicanos/logo_20250109_231027_70.png",
-      "url": "https://d3s7x6kmqcnb6b.cloudfront.net/hls/LSKRKJA/3F13C2D5DEBB/m.m3u8",
-      "category": "Musica"
+      "n": "VGFsdGEgdHYgbWl4",
+      "l": "aHR0cHM6Ly9pLmltZ3VyLmNvbS80NldYeHU4LnBuZw==",
+      "s1": "aHR0cHM6Ly9saXZlMjAuYm96enR2LmNvbS9naWF0di9naWF0di1UQUxUQUxUVkFOSU1BQ0lPTi9UQUxUQUxUVkFOSU1BQ0lPTi9jaHVua3MubTN1OA==",
+      "s2": "",
+      "li": 1
+    },
+    {
+      "n": "VGFsdGFsIGFuaW1l",
+      "l": "aHR0cHM6Ly9pLmltZ3VyLmNvbS9BY2hmR0d1LnBuZw==",
+      "s1": "aHR0cHM6Ly9saXZlMjAuYm96enR2LmNvbS9naWF0di9naWF0di1UQUxUQUxUVkFOSU1BQ0lPTjIvVEFMVEFMVFZBTklNQUNJT04yL2NodW5rcy5tM3U4",
+      "s2": "",
+      "li": 1
+    },
+    {
+      "n": "R29nb3BsYXkgVFY=",
+      "l": "aHR0cHM6Ly9pLmltZ3VyLmNvbS96QVdFOVA0LnBuZw==",
+      "s1": "aHR0cHM6Ly9saXZlMjAuYm96enR2LmNvbS9ha2FtYWlzc2gxMDEvc3NoMTAxL2dvZ29wbGF5L3BsYXlsaXN0Lm0zdTg=",
+      "s2": "",
+      "li": 1
+    },
+    {
+      "n": "RHJlaWtvIFRW",
+      "l": "aHR0cHM6Ly9pLmltZ3VyLmNvbS85bDZOMXdyLnBuZw==",
+      "s1": "aHR0cHM6Ly9ydHYuZnVsbGhkLXN0cmVhbWluZy5jb206MTkzNjAvZHJlaWtvdHYvZHJlaWtvdHYubTN1OA==",
+      "s2": "",
+      "li": 1
+    },
+    {
+      "n": "WkFaIFR2",
+      "l": "aHR0cHM6Ly9pLmltZ3VyLmNvbS85ZkJQRXp1LnBuZw==",
+      "s1": "aHR0cHM6Ly9wbGF5YmFjay5saXZlcGVlci5zdHVkaW8vaGxzLzEzMmVrZXc1dTFtNDAzZ3kvaW5kZXgubTN1OD90a249WGFqRDhDZE9ncjd1cXRDS1p5S0hjSg==",
+      "s2": "",
+      "li": 1
+    },
+    {
+      "n": "TG9jb21vdGlvbg==",
+      "l": "aHR0cHM6Ly9pLmltZ3VyLmNvbS9scllMVUhILnBuZw==",
+      "s1": "aHR0cHM6Ly9saXZlMjAuYm96enR2LmNvbS9naWF0dnBsYXlvdXQ3L2dpYXR2LTIxMDA3NS90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg=",
+      "s2": "",
+      "li": 1
+    },
+    {
+      "n": "dGVsZWFuaW1lbWFuaWE=",
+      "l": "aHR0cHM6Ly9pLmltZ3VyLmNvbS9oOG1pREZXLnBuZw==",
+      "s1": "aHR0cHM6Ly9saXZlMjAuYm96enR2LmNvbS9naWF0dnBsYXlvdXQ3L2dpYXR2LTIwOTQ3NC90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg=",
+      "s2": "",
+      "li": 1
+    },
+    {
+      "n": "UmV0cm90dg==",
+      "l": "aHR0cHM6Ly9pLmltZ3VyLmNvbS9ZQmFrZU5aLnBuZw==",
+      "s1": "aHR0cHM6Ly9saXZlMjEuYm96enR2LmNvbS9ha2FtYWlzc2gxMDEvc3NoMTAxL3JldHJvdHZjcjIwMjUvY2h1bmtzLm0zdTg=",
+      "s2": "",
+      "li": 1
+    },
+    {
+      "n": "QmVzdCBjbGFzaWNvcy=",
+      "l": "aHR0cHM6Ly93d3cudml2YWxidmV0di5jb20vcHVibGljL2ZpbGVzL3Nob3dzLzAvMS8zODk2LTI5NHgxNjUtRkZGRkZGLmpwZw==",
+      "s1": "aHR0cHM6Ly9hY2Nlc28ubWVkaW9zZGVjb3N0YXJpY2EuY29tOjM4NzMvaHlicmlkL3BsYXkubTN1OA==",
+      "s2": "",
+      "li": 1
+    },
+    {
+      "n": "VGVsZWNsYXNpY2E=",
+      "l": "aHR0cHM6Ly9pLmltZ3VyLmNvbS95RUxHdVpFLnBuZw==",
+      "s1": "aHR0cHM6Ly9saXZlMjAuYm96enR2LmNvbS9ha2FtYWlzc2gxMDEvc3NoMTAxL3RlbGVjbGFzaWsvY2h1bmtzLm0zdTg=",
+      "s2": "",
+      "li": 1
+    },
+    {
+      "n": "TWVnYSB0dg==",
+      "l": "aHR0cHM6Ly9pLmltZ3VyLmNvbS80SWYzQ0xSLnBuZw==",
+      "s1": "aHR0cHM6Ly9saXZlLWV2ZzUudHYzNjAuYml0ZWwuY29tLnBlL2JpdGVsL21lZ2F0di9jaHVua3MubTN1OD91aWQ9ODIwOTc5Mw==",
+      "s2": "",
+      "li": 1
+    },
+    {
+      "n": "Q2FyYWNvbGEgVHY=",
+      "l": "aHR0cHM6Ly9pLmltZ3VyLmNvbS9xNTEwNlBELnBuZw==",
+      "s1": "aHR0cHM6Ly93aWZpc3BlZWQudHJhcGVtbi50djoxOTM2L2NvbXVuYWxlcy9jYXJhY29sYS10di9jaHVua3MubTN1OD9uaW1ibGVzZXNzaW9uaWQ9MzAwNDUzNTkx",
+      "s2": "",
+      "li": 1
+    },
+    {
+      "n": "RnJlY3VlbmNpYSBNdXNpY2FsIFR2",
+      "l": "aHR0cHM6Ly9pLmltZ3VyLmNvbS9nY3ZRdDcxLnBuZw==",
+      "s1": "aHR0cHM6Ly9zMi50dmRhdHRhLmNvbTozMzA3L2h5YnJpZC9wbGF5Lm0zdTg=",
+      "s2": "",
+      "li": 1
+    },
+    {
+      "n": "UmV0cm94IFR2",
+      "l": "aHR0cHM6Ly9pLmltZ3VyLmNvbS9DUlJKZDBSLnBuZw==",
+      "s1": "aHR0cHM6Ly9saXZlMjAuYm96enR2LmNvbS9naWF0di9naWF0di1SVFZOL1JUVk4vY2h1bmtzLm0zdTg=",
+      "s2": "",
+      "li": 1
+    },
+    {
+      "n": "UmV0cm8gVHYgUGFsbWFyZXM=",
+      "l": "aHR0cHM6Ly9pLmltZ3VyLmNvbS9qelJock1YLnBuZw==",
+      "s1": "aHR0cHM6Ly9saXZlMjAuYm96enR2LmNvbS9ha2FtYWlzc2gxMDEvc3NoMTAxL3R2cmV0cm9wYWxtMjAyMC9jaHVua3MubTN1OA==",
+      "s2": "",
+      "li": 1
+    },
+    {
+      "n": "VGlndWVyaXRvcyBUVg==",
+      "l": "aHR0cHM6Ly9pLmltZ3VyLmNvbS9acHRoREl5LmpwZWc=",
+      "s1": "aHR0cHM6Ly9zczIudHZyZG9taS5jb206MTkzNi90aWd1ZXJpdG9zdHYvdGlndWVyaXRvc3R2L2NodW5rbGlzdF93ODcyMTE2MTQyLm0zdTg=",
+      "s2": "",
+      "li": 1
+    },
+    {
+      "n": "VFYgQ2xhc2ljYQ==",
+      "l": "aHR0cHM6Ly9pLmliYi5jby9MMVE3MGpML0xvZ28tTWktVFYtVGVsZXZpc2lvbi1DbGFzaWNhLnBuZw==",
+      "s1": "aHR0cHM6Ly9taXR2LmdldHN0cmVhbWhvc3RpbmcuY29tOjE5MzYvbGl2ZS9saXZlL2NodW5rbGlzdF93MTg1NzE4MDc5OS5tM3U4",
+      "s2": "",
+      "li": 1
+    },
+    {
+      "n": "VERUdg==",
+      "l": "aHR0cHM6Ly9pLmltZ3VyLmNvbS83aHpSa2NzLnBuZw==",
+      "s1": "aHR0cHM6Ly9jbG91ZHZpZGVvLnNlcnZlcnMxMC5jb206ODA4MS84MjMwL3RyYWNrcy12MWExL21vbm8ubTN1OA==",
+      "s2": "",
+      "li": 1
+    },
+    {
+      "n": "R2FtIHR2",
+      "l": "aHR0cHM6Ly9pLmltZ3VyLmNvbS9sTVRQTnI4LnBuZw==",
+      "s1": "aHR0cHM6Ly92Mi5henVsc3RyZWFtLmNvbTo4MDgxL2dhbXR2L2dhbXR2L3RyYWNrcy12MWExL21vbm8ubTN1OA==",
+      "s2": "",
+      "li": 1
+    },
+    {
+      "n": "UGxhbmV0YSBDaGFubmVs",
+      "l": "aHR0cHM6Ly9wbGFuZXRhcmFkaW90di5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMjEvMDgvY3JvcHBlZC1sb2dvLW5ldy1UGxhbmV0YS0yLTExNHg4My5wbmc=",
+      "s1": "aHR0cHM6Ly9saXZlMjAuYm96enR2LmNvbS9ha2FtYWlzc2gxMDEvc3NoMTAxL3BsYW5ldGE1NXR2L2NodW5rcy5tM3U4",
+      "s2": "",
+      "li": 1
+    },
+    {
+      "n": "SW12YXNpdmEgTWVkaWE=",
+      "l": "aHR0cHM6Ly9pLmliYi5jby9DN05QVHNUL0xvZ28tSW52YXNpdmEtTWVkaWEuanBn",
+      "s1": "aHR0cHM6Ly90di5pbnZhc2l2YW1lZGlhLmNvbS9obHMvbGltdHYubTN1OA==",
+      "s2": "",
+      "li": 1
+    },
+    {
+      "n": "dGVsZWxpbWE=",
+      "l": "aHR0cHM6Ly9pLmltZ3VyLmNvbS84M0FXWkNPLnBuZw==",
+      "s1": "aHR0cHM6Ly9saXZlLWV2ZzExLnR2MzYwLmJpdGVsLmNvbS5wZS9iaXRlbC90ZWxlbGltYVNSVC9jaHVua3MubTN1OD91aWQ9ODIwOTc5Mw==",
+      "s2": "",
+      "li": 1
+    },
+    {
+      "n": "RXh0cmVtYSBUViBLaWRz",
+      "l": "aHR0cHM6Ly9pLmliYi5jby93WWJyVDJYL0xvZ28tRXh0cmVtYS1UVi1LaWRzLnBuZw==",
+      "s1": "aHR0cHM6Ly82MjdiYjI1MWYyM2M3LnN0cmVhbWxvY2submV0OjQ0NC9FeHRyZW1hS2lkcy9FeHRyZW1hS2lkcy9wbGF5bGlzdC5tM3U4",
+      "s2": "",
+      "li": 1
+    },
+    {
+      "n": "UGl0dWZvIFRWI",
+      "l": "aHR0cHM6Ly9pLmliYi5jby9UVkg5Z3ZCL0xvZ28tUGl0dWZvIFRWLnBuZw==",
+      "s1": "aHR0cHM6Ly9pbXBzLXNtcmZzLm90dGVyYXZpc2lvbi5jb20vaW1wcy9zbXJmcy9zbXJmcy5tM3U4",
+      "s2": "",
+      "li": 1
+    },
+    {
+      "n": "UmVhbCBNYWRyaWQgdHY=",
+      "l": "aHR0cHM6Ly9pLmltZ3VyLmNvbS9Oa25GV054LnBuZw==",
+      "s1": "aHR0cHM6Ly9ybXR2LmFram1haXplZC5uZXQvaGxzL2xpdmUvMjA0MzE1My9ybXR2LWVzLXdlYi9iaXRyYXRlXzMubTN1OA==",
+      "s2": "",
+      "li": 1
+    },
+    {
+      "n": "S3BvcA==",
+      "l": "aHR0cHM6Ly9uZW90di5jbC9hc3NldHMvaW1nL2NoYW5uZWxzL2twb3AtdmYucG5n",
+      "s1": "aHR0cHM6Ly9saXZlMjAuYm96enR2LmNvbS9naWF0di9naWF0di1rcG9wdHZwbGF5L2twb3B0dnBsYXkvY2h1bmtzLm0zdTg=",
+      "s2": "",
+      "li": 1
+    },
+    {
+      "n": "UGxhbmV0YSB0dg==",
+      "l": "aHR0cHM6Ly9pLmltZ3VyLmNvbS9HOHN3OWh6LnBuZw==",
+      "s1": "aHR0cHM6Ly90bHMtY2wuY2Ruai5jbC9wbGFuZXRhdHYvbGl2ZS9jaHVua2xpc3RfdzQyNjU0ODcwLm0zdTg=",
+      "s2": "",
+      "li": 1
+    },
+    {
+      "n": "VG9wTGF0aW5v",
+      "l": "aHR0cHM6Ly9pLmltZ3VyLmNvbS9EUmJLZ2x4LnBuZw==",
+      "s1": "aHR0cHM6Ly81Y2VmY2JmNThiYTJlLnN0cmVhbWxvY2submV0OjU0My93ZWJ0bHR2L3dlYnRsdHYuc3RyZWFtL2NodW5rbGlzdF93MTY1MTcyNDczOF90a2QyOTNlbUZyYjJ0b2tlbnN0YXJ0dGltZT0xNzY0MDMwMTc1Jndvd3phdG9rZW5lbmR0aW1lPTE3NjQwMzExNzUmd293emF0b2tlbmhhc2g9RXJXUXZCQVA2S3BjM0Z2ZWpfTm5ERkV6Z1dxRDlWcDIxcmZySW9fcDNvND0=.m3u8",
+      "s2": "",
+      "li": 1
+    },
+    {
+      "n": "SGl0cyBtZXhpY2Fubw==",
+      "l": "aHR0cHM6Ly9hLmpzcmRuLmNvbS9obHMvMjMxOTUvaGl0cy1tZXhpY2Fub3MvbG9nb18yMDI1MDEwOV8yMzEwMjdfNzAucG5n",
+      "s1": "aHR0cHM6Ly9kM3M3eDZrbXFjbmI2Yi5jbG91ZGZyb250Lm5ldC9obHMvS1NLUktKQS8zRjEzQzJENURFQkYvbS5tM3U4",
+      "s2": "",
+      "li": 1
     }
   ]
 }
