@@ -1,0 +1,483 @@
+{
+  "channels": [
+    {
+      "name": "Mi Pelicula",
+      "estado": "en vivo",
+      "genero": "diverso",
+      "logo": "https://i.imgur.com/C9WxFHA.png",
+      "url": "https://live-evg5.tv360.bitel.com.pe/bitel/mipeliculaSRT/chunks.m3u8?uid=8209793",
+      "category": "Peliculas"
+    },
+    {
+      "name": "Wow movies",
+"estado": "en vivo",
+      "genero": "diverso",
+      "logo": "https://i.imgur.com/dhxytky.png",
+      "url": "https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/chunks.m3u8",
+      "category": "Peliculas"
+    },
+     {
+      "name": "Invasiva avi",
+"estado": "en vivo",
+       "genero": "diverso",
+      "logo": "https://i.imgur.com/kxDSSrY.png",
+      "url": "https://mitv.zplay.cl/Invasiva/tracks-v1a1/mono.m3u8",
+      "category": "Peliculas"
+    },
+    {
+      "name": "FMHMovies",
+"estado": "en vivo",
+      "genero": "accion, aventura, fantasia",
+      "logo": "https://i.imgur.com/4xEmxu1.png",
+      "url": "https://live-evg18.tv360.bitel.com.pe/bitel/fmhmovies_abr/bitel/fmhmovies_720p/chunks.m3u8",
+      "category": "Peliculas"
+    },
+    {
+      "name": "FMHKids",
+"estado": "en vivo",
+      "genero": "animacion",
+      "logo": "https://i.imgur.com/5CSuza7.png",
+      "url": "https://live-evg18.tv360.bitel.com.pe/bitel/fmhkids_abr/bitel/fmhkids_720p/chunks.m3u8",
+      "category": "Peliculas"
+    },
+    {
+      "name": "Bayres tv",
+"estado": "en vivo",
+      "genero": "accion, fantasia, drama",
+      "logo": "https://i.imgur.com/AV6FabN.png",
+      "url": "https://streaming01.mikrolive.tv/bayrestv/live/chunklist_w1735478623.m3u8",
+      "category": "Peliculas"
+    },
+    {
+      "name": "Big Channel",
+"estado": "en vivo",
+      "genero": "diverso",
+      "logo": "https://i.imgur.com/h3Vmx54.png",
+      "url": "https://live20.bozztv.com/giatv/giatv-bigtv/bigtv/chunks.m3u8",
+      "category": "Peliculas"
+    },
+{
+      "name": "fm cosmo tv",
+"estado": "en vivo",
+  "genero": "diverso",
+      "logo": "https://i.imgur.com/FYFZt9t.png",
+      "url": "https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8",
+      "category": "Peliculas"
+    },
+{
+      "name": "Mega cine",
+"estado": "en vivo",
+  "genero": "diverso",
+      "logo": "https://i.ibb.co/H4Hxv9B/2893-294x165-FFFFFF-11zon.webp",
+      "url": "https://cnn.hostlagarto.com/megacinetv/tracks-v1a1/mono.m3u8",
+      "category": "Peliculas"
+    },
+{
+      "name": "Vision tv",
+"estado": "en vivo",
+  "genero": "diverso",
+      "logo": "https://i.imgur.com/gK6BYlp.png",
+      "url": "https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8",
+      "category": "Peliculas"
+    },
+{
+      "name": "Monitos Tv",
+"estado": "en vivo",
+  "genero": "diverso",
+      "logo": "https://neotv.cl/assets/img/channels/monitv.png",
+      "url": "https://live20.bozztv.com/akamaissh101/ssh101/monitvhd/chunks.m3u8",
+      "category": "Peliculas"
+    },
+{
+      "name": "Wow tv",
+"estado": "en vivo",
+  "genero": "aventura, accion",
+      "logo": "https://www.wowelsalvador.com/imagen/logo2.png",
+      "url": "https://cdn-edge2.cef-technology.com/wow/wow_tv/chunks.m3u8?nimblesessionid=6395845",
+      "category": "Peliculas"
+    },
+{
+      "name": "Gen TV",
+"estado": "en vivo",
+  "genero": "diverso",
+      "logo": "https://i.imgur.com/qGddRW4.png",
+      "url": "https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8",
+      "category": "Peliculas"
+    },
+{
+      "name": "Orbit tv",
+"estado": "en vivo",
+  "genero": "diverso",
+      "logo": "https://i.imgur.com/gmMKLvu.png",
+      "url": "https://mlb.essastream.com:8081/orbittv/index.m3u8",
+      "category": "Peliculas"
+    },
+    {
+      "name": "Neo tv",
+"estado": "en vivo",
+      "genero": "diverso",
+      "logo": "https://neotvdigital.com.ar/imagenes/logo1.png",
+      "url": "https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8",
+      "category": "Peliculas"
+    },
+{
+      "name": "Mix Bolivia tv",
+"estado": "en vivo",
+  "genero": "Animacion",
+      "logo": "https://www.gogoplaytv.com/images/boton%202m-u437151-fr.png",
+      "url": "https://giatv.bozztv.com/giatv/giatv-NEOMIXHD/NEOMIXHD/chunks.m3u8",
+      "category": "Peliculas"
+    },
+    {
+      "name": "Next TV",
+"estado": "en vivo",
+      "genero": "diverso",
+      "logo": "https://i.imgur.com/DlMDN1L.png",
+      "url": "https://live.enhdtv.com:19360/nexthd/nexthd.m3u8",
+      "category": "Peliculas"
+    },
+    {
+      "name": "Zurqui tv",
+"estado": "en vivo",
+      "genero": "diverso",
+      "logo": "https://i.imgur.com/GcfUOiV.png",
+      "url": "https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8",
+      "category": "Peliculas"
+    },
+{
+      "name": "Kanade",
+"estado": "en vivo",
+  "genero": "Animacion",
+      "logo": "https://i.imgur.com/BllkzYT.png",
+      "url": "https://static.kanade.cl/hls/kanade.m3u8",
+      "category": "Anime"
+    },
+    {
+      "name": "Anima kids",
+"estado": "en vivo",
+      "genero": "Animacion",
+      "logo": "https://i.imgur.com/HFO4lOU.png",
+      "url": "https://live-evg8.tv360.bitel.com.pe/bitel/animakids/chunks.m3u8?uid=8209793",
+      "category": "Anime"
+    },
+    {
+      "name": "Etc tv",
+"estado": "en vivo",
+      "genero": "Animacion",
+      "logo": "https://i.postimg.cc/zBjGz3dQ/Logoetctv.png",
+      "url": "http://45.181.122.46:8090/play/a00t",
+      "category": "Anime"
+    },
+    {
+      "name": "teleanimemania latino",
+"estado": "en vivo",
+      "genero": "Animacion",
+      "logo": "https://i.imgur.com/fvggCwg.png",
+      "url": "https://live20.bozztv.com/giatvplayout7/giatv-210634/tracks-v1a1/mono.ts.m3u8",
+      "category": "Anime"
+    },
+    {
+      "name": "Anifun",
+"estado": "en vivo",
+      "genero": "Animacion",
+      "logo": "https://i.imgur.com/otx8M4S.png",
+      "url": "https://live20.bozztv.com/giatv/giatv-FunTVEste/FunTVEste/chunks.m3u8",
+      "category": "Anime"
+    },
+{
+      "name": "Magic Kids",
+"estado": "en vivo",
+  "genero": "Animacion",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Logomagic96.png",
+      "url": "https://kiiroilabs.ddns.net/magickids/stream/stream.m3u8",
+      "category": "Anime"
+    },
+    {
+      "name": "Retro Magico",
+"estado": "en vivo",
+  "genero": "Animacion",
+      "logo": "https://static.wixstatic.com/media/3ebf2e_6c71f9a7aa66459ea6140c872c515467~mv2.png/v1/fill/w_135,h_66,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Logo%20letras%203d.png",
+      "url": "https://live20.bozztv.com/akamaissh101/ssh101/retromagicochnl/chunks.m3u8",
+      "category": "Anime"
+    },
+    {
+      "name": "Anime Station",
+"estado": "en vivo",
+      "genero": "Animacion",
+      "logo": "https://i.imgur.com/TWFJFx2.png",
+      "url": "https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/chunks.m3u8",
+      "category": "Anime"
+    },
+{
+      "name": "Goku tv",
+"estado": "en vivo",
+  "genero": "Animacion",
+      "logo": "https://i.imgur.com/KtioMXW.png",
+      "url": "https://live20.bozztv.com/giatv/giatv-dball/dball/chunks.m3u8",
+      "category": "Anime"
+    },
+{
+      "name": "Zyoon TV",
+"estado": "en vivo",
+  "genero": "Animacion",
+      "logo": "https://i.imgur.com/kcR0Q5U.png",
+      "url": "https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/chunks.m3u8",
+      "category": "Anime"
+    },
+    {
+      "name": "Max Anime",
+"estado": "en vivo",
+      "genero": "Animacion",
+      "logo": "https://i.imgur.com/FRrCEgO.png",
+      "url": "https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8",
+      "category": "Anime"
+    },
+{
+      "name": "Toonami",
+"estado": "en vivo",
+  "genero": "Animacion",
+      "logo": "https://i.imgur.com/JUz4bCj.png",
+      "url": "https://live20.bozztv.com/giatv/giatv-ToonamiTV/ToonamiTV/chunks.m3u8",
+      "category": "Anime"
+    },
+{
+      "name": "Talta tv",
+"estado": "en vivo",
+  "genero": "Animacion",
+      "logo": "https://i.imgur.com/6bpmTEY.png",
+      "url": "https://live20.bozztv.com/giatv/giatv-TALTALPELICULAS/TALTALPELICULAS/chunks.m3u8",
+      "category": "Anime"
+    },
+    {
+      "name": "Talta tv mix",
+"estado": "en vivo",
+      "genero": "Animacion",
+      "logo": "https://i.imgur.com/46WXxu8.png",
+      "url": "https://live20.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/chunks.m3u8",
+      "category": "Anime"
+    },
+    {
+      "name": "Taltal anime",
+"estado": "en vivo",
+      "genero": "Animacion",
+      "logo": "https://i.imgur.com/AchfGGu.png",
+      "url": "https://live20.bozztv.com/giatv/giatv-TALTALTVANIMACION2/TALTALTVANIMACION2/chunks.m3u8",
+      "category": "Anime"
+    },
+{
+      "name": "Gogoplay TV",
+"estado": "en vivo",
+  "genero": "Animacion",
+      "logo": "https://i.imgur.com/zAWE9O4.png",
+      "url": "https://live20.bozztv.com/akamaissh101/ssh101/gogoplay/playlist.m3u8",
+      "category": "Anime"
+    },
+    {
+      "name": "Dreiko TV",
+"estado": "en vivo",
+      "genero": "Animacion",
+      "logo": "https://i.imgur.com/9l6N1wr.png",
+      "url": "https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8",
+      "category": "Anime"
+    },
+     {
+      "name": "ZAZ Tv",
+"estado": "en vivo",
+      "genero": "Animacion",
+      "logo": "https://i.imgur.com/9fBPEzu.png",
+      "url": "https://playback.livepeer.studio/hls/132ekew5u1m403gy/index.m3u8?tkn=XajD8CdOgr7uqtCKZyKHcJ",
+      "category": "Anime"
+    },
+    {
+      "name": "Locomotion",
+"estado": "en vivo",
+      "genero": "Animacion",
+      "logo": "https://i.imgur.com/lrYLU4H.png",
+      "url": "https://live20.bozztv.com/giatvplayout7/giatv-210075/tracks-v1a1/mono.ts.m3u8",
+      "category": "Anime"
+    },
+    {
+      "name": "Teleanimemania",
+"estado": "en vivo",
+      "genero": "Animacion",
+      "logo": "https://i.imgur.com/h8miDFW.png",
+      "url": "https://live20.bozztv.com/giatvplayout7/giatv-209474/tracks-v1a1/mono.ts.m3u8",
+      "category": "Anime"
+    },
+{
+      "name": "Retrotv",
+"estado": "en vivo",
+  "genero": "Animacion",
+      "logo": "https://i.imgur.com/YBakeNZ.png",
+      "url": "https://live21.bozztv.com/akamaissh101/ssh101/retrotvcr2025/chunks.m3u8",
+      "category": "Retro"
+    },
+    {
+      "name": "Best clasicos",
+"estado": "en vivo",
+      "genero": "Retro, aventura",
+      "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3896-294x165-FFFFFF.jpg",
+      "url": "https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8",
+      "category": "Retro"
+    },
+    {
+      "name": "Teleclasica",
+"estado": "en vivo",
+       "genero": "Retro, aventura",
+      "logo": "https://i.imgur.com/yELGuZE.png",
+      "url": "https://live20.bozztv.com/akamaissh101/ssh101/teleclasik/chunks.m3u8",
+      "category": "Retro"
+    },
+     {
+      "name": "Mega tv",
+"estado": "en vivo",
+        "genero": "Retro, aventura",
+      "logo": "https://i.imgur.com/4If3CLR.png",
+      "url": "https://live-evg5.tv360.bitel.com.pe/bitel/megatv/chunks.m3u8?uid=8209793",
+      "category": "Retro"
+    },
+{
+      "name": "Caracola Tv",
+"estado": "en vivo",
+   "genero": "Retro, aventura",
+      "logo": "https://i.imgur.com/q5106PD.png",
+      "url": "https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/chunks.m3u8?nimblesessionid=300453591",
+      "category": "Retro"
+    },
+{
+      "name": "Frecuencia Musical Tv",
+"estado": "en vivo",
+   "genero": "Retro, aventura",
+      "logo": "https://i.imgur.com/gcvQt71.png",
+      "url": "https://s2.tvdatta.com:3307/hybrid/play.m3u8",
+      "category": "Retro"
+    },
+{
+      "name": "Retrox Tv",
+"estado": "en vivo",
+   "genero": "Retro, aventura",
+      "logo": "https://i.imgur.com/CRRJd0R.png",
+      "url": "https://live20.bozztv.com/giatv/giatv-RTVN/RTVN/chunks.m3u8",
+      "category": "Retro"
+    },  
+{
+      "name": "Retro Tv Palmares",
+"estado": "en vivo",
+   "genero": "Retro, aventura",
+      "logo": "https://i.imgur.com/jzRhrMX.png",
+      "url": "https://live20.bozztv.com/akamaissh101/ssh101/tvretropalm2020/chunks.m3u8",
+      "category": "Retro"
+    },
+    {
+      "name": "Tigueritos TV",
+"estado": "en vivo",
+       "genero": "Retro, aventura",
+      "logo": "https://i.imgur.com/ZpthDIy.jpeg",
+      "url": "https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/chunklist_w872116142.m3u8",
+      "category": "Retro"
+    },
+    {
+      "name": "TV Clasica",
+"estado": "en vivo",
+       "genero": "Retro, aventura",
+      "logo": "https://i.ibb.co/L1Q70jL/Logo-Mi-TV-Television-Clasica.png",
+      "url": "https://mitv.getstreamhosting.com:1936/live/live/chunklist_w1857180799.m3u8",
+      "category": "Retro"
+    },
+    {
+      "name": "TDTv",
+"estado": "en vivo",
+       "genero": "Retro, aventura",
+      "logo": "https://i.imgur.com/7hzRkcs.png",
+      "url": "https://cloudvideo.servers10.com:8081/8230/tracks-v1a1/mono.m3u8",
+      "category": "Retro"
+    },
+    {
+      "name": "Gam tv",
+"estado": "en vivo",
+      "genero": "Retro, aventura, diverso",
+      "logo": "https://i.imgur.com/lMTpNr8.png",
+      "url": "https://v2.azulstream.com:8081/gamtv/gamtv/tracks-v1a1/mono.m3u8",
+      "category": "Variado"
+    },
+    {
+      "name": "Planeta Channel",
+"estado": "en vivo",
+      "genero": "Retro, aventura, diverso",
+      "logo": "https://planetaradiotv.com/wp-content/uploads/2021/08/cropped-logo-new-Planeta-2-114x83.png",
+      "url": "https://live20.bozztv.com/akamaissh101/ssh101/planeta55tv/chunks.m3u8",
+      "category": "Variado"
+    },
+{
+      "name": "Imvasiva Media",
+"estado": "en vivo",
+  "genero": "Retro, aventura, diverso",
+      "logo": "https://i.ibb.co/C7NPTsT/Logo-Invasiva-Media.jpg",
+      "url": "https://tv.invasivamedia.com/hls/limtv.m3u8",
+      "category": "Variado"
+    },
+    {
+      "name": "telelima",
+"estado": "en vivo",
+      "genero": "Retro, aventura, diverso",
+      "logo": "https://i.imgur.com/83AWZCO.png",
+      "url": "https://live-evg11.tv360.bitel.com.pe/bitel/telelimaSRT/chunks.m3u8?uid=8209793",
+      "category": "Variado"
+    },
+{
+      "name": "Extrema TV Kids",
+"estado": "en vivo",
+  "genero": "Retro, aventura, animacion",
+      "logo": "https://i.ibb.co/wYbrT2X/Logo-Extrema-TV-Kids.png",
+      "url": "https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8",
+      "category": "Variado"
+    },
+{
+      "name": "Pitufo TV",
+"estado": "en vivo",
+  "genero": "Retro, aventura, animacion",
+      "logo": "https://i.ibb.co/TvH9gvB/Logo-Pitufo-TV.png",
+      "url": "https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8",
+      "category": "Variado"
+    },
+    {
+      "name": "Real Madrid tv",
+"estado": "en vivo",
+      "genero": "Deporte",
+      "logo": "https://i.imgur.com/NknFWnx.png",
+      "url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8",
+      "category": "Deporte"
+    },
+{
+      "name": "Kpop",
+"estado": "en vivo",
+  "genero": "Musica",
+      "logo": "https://neotv.cl/assets/img/channels/kpop-tv.png",
+      "url": "https://live20.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8",
+      "category": "Musica"
+    },
+{
+      "name": "Planeta tv",
+"genero": "Musica",
+      "logo": "https://i.imgur.com/G8sw9hz.png",
+      "url": "https://tls-cl.cdnz.cl/planetatv/live/chunklist_w42654870.m3u8",
+      "category": "Musica"
+    },
+    {
+      "name": "TopLatino",
+"estado": "en vivo",
+      "genero": "Musica",
+      "logo": "https://i.imgur.com/DRbKglx.png",
+      "url": "https://5cefcbf58ba2e.streamlock.net:543/webtltv/webtltv.stream/chunklist_w1651724738_tkd293emF0b2tlbnN0YXJ0dGltZT0xNzY0MDMwMTc1Jndvd3phdG9rZW5lbmR0aW1lPTE3NjQwMzExNzUmd293emF0b2tlbmhhc2g9RXJXUXZCQVA2S3BjM0Z2ZWpfTm5ERkV6Z1dxRDlWcDIxcmZySW9fcDNvND0=.m3u8",
+      "category": "Musica"
+    },
+    {
+      "name": "Hits mexicano",
+"estado": "en vivo",
+      "genero": "Musica",
+      "logo": "https://a.jsrdn.com/hls/23195/hits-mexicanos/logo_20250109_231027_70.png",
+      "url": "https://d3s7x6kmqcnb6b.cloudfront.net/hls/LSKRKJA/3F13C2D5DEBB/m.m3u8",
+      "category": "Musica"
+    }
+  ]
+}
