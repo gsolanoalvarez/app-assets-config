@@ -24,6 +24,16 @@
             "https://promart.vteximg.com.br/arquivos/ids/10428281-1000-1000/170693.jpg",
             "https://promart.vteximg.com.br/arquivos/ids/8380628-1000-1000/144766.jpg"
           ]
+        },
+         {
+          "nombre": "Muebles de Sala",
+          "descripcion": "Instalación de centros de entretenimiento, Bar, Repisas, adornos",
+          "imagenes": [
+            "https://oechsle.vteximg.com.br/arquivos/ids/22049572-1000-1000/2931157.jpg",
+            "https://oechsle.vteximg.com.br/arquivos/ids/6125593-1000-1000/2014452_3.jpg",
+            "https://oechsle.vteximg.com.br/arquivos/ids/23805518-1000-1000/24699.jpg",
+            "https://oechsle.vteximg.com.br/arquivos/ids/13591953-1000-1000/105796.jpg"
+          ]
         }
       ]
     },
@@ -69,22 +79,22 @@
         {
           "nombre": "Camas Saltarinas",
           "descripcion": "Armado de camas saltarinas de todos los tamaños con red de protección.",
-          "imagenes": ["https://promart.vteximg.com.br/arquivos/ids/10328224-1000-1000/150171.jpg"]
+          "imagenes": ["https://oechsle.vteximg.com.br/arquivos/ids/23181452-1000-1000/image-0.jpg"]
         },
         {
           "nombre": "Pérgolas y Toldos",
           "descripcion": "Instalación de pérgolas de madera o metal para jardín.",
-          "imagenes": ["https://promart.vteximg.com.br/arquivos/ids/10049454-1000-1000/129653.jpg"]
+          "imagenes": ["https://oechsle.vteximg.com.br/arquivos/ids/24405539-1000-1000/164354.jpg"]
         },
         {
           "nombre": "Piscinas Estructurales",
           "descripcion": "Armado de piscinas de lona con soportes metálicos.",
-          "imagenes": ["https://promart.vteximg.com.br/arquivos/ids/9335432-1000-1000/162886.jpg"]
+          "imagenes": ["https://oechsle.vteximg.com.br/arquivos/ids/7368730-1000-1000/image-29cf621ffef34efa912609c1049d7758.jpg"]
         }
       ]
     },
     {
-      "id": "campanas_cocina",
+      "id": "campanas",
       "nombre": "Campanas y Línea Blanca",
       "descripcion": "Instalación de campanas eléctricas y electrodomésticos.",
       "icono": "kitchen",
@@ -92,7 +102,7 @@
         {
           "nombre": "Campanas Extractoras",
           "descripcion": "Instalación eléctrica y montaje de campanas de cocina.",
-          "imagenes": ["https://promart.vteximg.com.br/arquivos/ids/9122044-1000-1000/107590.jpg"]
+          "imagenes": ["https://oechsle.vteximg.com.br/arquivos/ids/20548632-1000-1000/1709312.jpg"]
         }
       ]
     }
