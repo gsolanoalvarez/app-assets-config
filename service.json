@@ -1,0 +1,48 @@
+{
+  "categorias": [
+    {
+      "id": "armado_muebles",
+      "nombre": "Armado de Muebles",
+      "descripcion": "Expertos en el armado de todo tipo de muebles: roperos, escritorios, centros de entretenimiento y más.",
+      "icono": "chair",
+      "servicios": [
+        {
+          "nombre": "Roperos y Clósets",
+          "descripcion": "Armado profesional de roperos de todas las marcas (Sodimac, Promart, Tottus, Tiendas F) con ajuste de puertas y cajones.",
+          "imagenes": ["https://promart.vteximg.com.br/arquivos/ids/9584294-1000-1000/164643.jpg", "https://promart.vteximg.com.br/arquivos/ids/9124738-1000-1000/145182.jpg"]
+        },
+        {
+          "nombre": "Muebles de Oficina",
+          "descripcion": "Instalación de escritorios, sillas ergonómicas y estantes para tu espacio de trabajo.",
+          "imagenes": ["oficina_1.jpg"]
+        }
+      ]
+    },
+    {
+      "id": "instalacion_rack",
+      "nombre": "Instalación de Racks",
+      "descripcion": "Montaje seguro de racks para TV en todo tipo de paredes (ladrillo, drywall).",
+      "icono": "tv",
+      "servicios": [
+        {
+          "nombre": "Rack Fijo o Giratorio",
+          "descripcion": "Instalación de soporte para televisores desde 32\" hasta 85\" con gestión de cables.",
+          "imagenes": ["rack_tv_1.jpg", "rack_tv_2.jpg"]
+        }
+      ]
+    },
+    {
+      "id": "reparaciones",
+      "nombre": "Reparaciones",
+      "descripcion": "Pequeñas reparaciones y mantenimiento para el hogar.",
+      "icono": "build",
+      "servicios": [
+        {
+          "nombre": "Cambio de Bisagras",
+          "descripcion": "Reparación de puertas de muebles de cocina o dormitorio que no cierran bien.",
+          "imagenes": ["reparacion_1.jpg"]
+        }
+      ]
+    }
+  ]
+}
