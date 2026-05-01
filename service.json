@@ -9,12 +9,21 @@
         {
           "nombre": "Roperos y Clósets",
           "descripcion": "Armado profesional de roperos de todas las marcas (Sodimac, Promart, Tottus, Ripley, Precio Uno, Tiendas F).",
-          "imagenes": ["https://promart.vteximg.com.br/arquivos/ids/9584294-1000-1000/164643.jpg", "https://promart.vteximg.com.br/arquivos/ids/9124738-1000-1000/145182.jpg","https://promart.vteximg.com.br/arquivos/ids/10036434-1000-1000/116593.jpg"]
+          "imagenes": [
+            "https://promart.vteximg.com.br/arquivos/ids/9584294-1000-1000/164643.jpg",
+            "https://promart.vteximg.com.br/arquivos/ids/9124738-1000-1000/145182.jpg",
+            "https://promart.vteximg.com.br/arquivos/ids/10036434-1000-1000/116593.jpg"
+          ]
         },
         {
           "nombre": "Muebles de Oficina",
           "descripcion": "Instalación de escritorios, sillas ergonómicas y estantes para tu espacio de trabajo.",
-          "imagenes": ["https://promart.vteximg.com.br/arquivos/ids/10486085-1000-1000/imageUrl_1.jpg","https://promart.vteximg.com.br/arquivos/ids/10155869-1000-1000/111352.jpg","https://promart.vteximg.com.br/arquivos/ids/10428281-1000-1000/170693.jpg","https://promart.vteximg.com.br/arquivos/ids/8380628-1000-1000/144766.jpg"]
+          "imagenes": [
+            "https://promart.vteximg.com.br/arquivos/ids/10486085-1000-1000/imageUrl_1.jpg",
+            "https://promart.vteximg.com.br/arquivos/ids/10155869-1000-1000/111352.jpg",
+            "https://promart.vteximg.com.br/arquivos/ids/10428281-1000-1000/170693.jpg",
+            "https://promart.vteximg.com.br/arquivos/ids/8380628-1000-1000/144766.jpg"
+          ]
         }
       ]
     },
@@ -27,7 +36,10 @@
         {
           "nombre": "Rack Fijo o Giratorio",
           "descripcion": "Instalación de soporte para televisores desde 32\" hasta 85\".",
-          "imagenes": ["https://promart.vteximg.com.br/arquivos/ids/9335564-1000-1000/164541.jpg", "https://promart.vteximg.com.br/arquivos/ids/9122056-1000-1000/107594.jpg"]
+          "imagenes": [
+            "https://promart.vteximg.com.br/arquivos/ids/9335564-1000-1000/164541.jpg",
+            "https://promart.vteximg.com.br/arquivos/ids/9122056-1000-1000/107594.jpg"
+          ]
         }
       ]
     },
@@ -40,7 +52,47 @@
         {
           "nombre": "Instalacion de Roller y Cortinas",
           "descripcion": "Instalacion de conrtinas rollers persianas y demas.",
-          "imagenes": ["https://promart.vteximg.com.br/arquivos/ids/9335332-1000-1000/162882.jpg", "https://promart.vteximg.com.br/arquivos/ids/10303396-1000-1000/170171.jpg", "https://promart.vteximg.com.br/arquivos/ids/7968832-1000-1000/151141.jpg"]
+          "imagenes": [
+            "https://promart.vteximg.com.br/arquivos/ids/9335332-1000-1000/162882.jpg",
+            "https://promart.vteximg.com.br/arquivos/ids/10303396-1000-1000/170171.jpg",
+            "https://promart.vteximg.com.br/arquivos/ids/7968832-1000-1000/151141.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aire_libre",
+      "nombre": "Aire Libre",
+      "descripcion": "Armado de camas saltarinas, pérgolas y piscinas estructurales.",
+      "icono": "pool",
+      "servicios": [
+        {
+          "nombre": "Camas Saltarinas",
+          "descripcion": "Armado de camas saltarinas de todos los tamaños con red de protección.",
+          "imagenes": ["https://promart.vteximg.com.br/arquivos/ids/10328224-1000-1000/150171.jpg"]
+        },
+        {
+          "nombre": "Pérgolas y Toldos",
+          "descripcion": "Instalación de pérgolas de madera o metal para jardín.",
+          "imagenes": ["https://promart.vteximg.com.br/arquivos/ids/10049454-1000-1000/129653.jpg"]
+        },
+        {
+          "nombre": "Piscinas Estructurales",
+          "descripcion": "Armado de piscinas de lona con soportes metálicos.",
+          "imagenes": ["https://promart.vteximg.com.br/arquivos/ids/9335432-1000-1000/162886.jpg"]
+        }
+      ]
+    },
+    {
+      "id": "campanas_cocina",
+      "nombre": "Campanas y Línea Blanca",
+      "descripcion": "Instalación de campanas eléctricas y electrodomésticos.",
+      "icono": "kitchen",
+      "servicios": [
+        {
+          "nombre": "Campanas Extractoras",
+          "descripcion": "Instalación eléctrica y montaje de campanas de cocina.",
+          "imagenes": ["https://promart.vteximg.com.br/arquivos/ids/9122044-1000-1000/107590.jpg"]
         }
       ]
     }
