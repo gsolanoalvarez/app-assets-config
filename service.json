@@ -8,39 +8,39 @@
       "servicios": [
         {
           "nombre": "Roperos y Clósets",
-          "descripcion": "Armado profesional de roperos de todas las marcas (Sodimac, Promart, Tottus, Tiendas F) con ajuste de puertas y cajones.",
-          "imagenes": ["https://promart.vteximg.com.br/arquivos/ids/9584294-1000-1000/164643.jpg", "https://promart.vteximg.com.br/arquivos/ids/9124738-1000-1000/145182.jpg"]
+          "descripcion": "Armado profesional de roperos de todas las marcas (Sodimac, Promart, Tottus, Ripley, Precio Uno, Tiendas F).",
+          "imagenes": ["https://promart.vteximg.com.br/arquivos/ids/9584294-1000-1000/164643.jpg", "https://promart.vteximg.com.br/arquivos/ids/9124738-1000-1000/145182.jpg","https://promart.vteximg.com.br/arquivos/ids/10036434-1000-1000/116593.jpg"]
         },
         {
           "nombre": "Muebles de Oficina",
           "descripcion": "Instalación de escritorios, sillas ergonómicas y estantes para tu espacio de trabajo.",
-          "imagenes": ["oficina_1.jpg"]
+          "imagenes": ["https://promart.vteximg.com.br/arquivos/ids/10486085-1000-1000/imageUrl_1.jpg","https://promart.vteximg.com.br/arquivos/ids/10155869-1000-1000/111352.jpg","https://promart.vteximg.com.br/arquivos/ids/10428281-1000-1000/170693.jpg","https://promart.vteximg.com.br/arquivos/ids/8380628-1000-1000/144766.jpg"]
         }
       ]
     },
     {
       "id": "instalacion_rack",
       "nombre": "Instalación de Racks",
-      "descripcion": "Montaje seguro de racks para TV en todo tipo de paredes (ladrillo, drywall).",
+      "descripcion": "Montaje seguro de racks para TV en todo los tamaños.",
       "icono": "tv",
       "servicios": [
         {
           "nombre": "Rack Fijo o Giratorio",
-          "descripcion": "Instalación de soporte para televisores desde 32\" hasta 85\" con gestión de cables.",
-          "imagenes": ["rack_tv_1.jpg", "rack_tv_2.jpg"]
+          "descripcion": "Instalación de soporte para televisores desde 32\" hasta 85\".",
+          "imagenes": ["https://promart.vteximg.com.br/arquivos/ids/9335564-1000-1000/164541.jpg", "https://promart.vteximg.com.br/arquivos/ids/9122056-1000-1000/107594.jpg"]
         }
       ]
     },
     {
-      "id": "reparaciones",
-      "nombre": "Reparaciones",
-      "descripcion": "Pequeñas reparaciones y mantenimiento para el hogar.",
+      "id": "Cortinas_Roller",
+      "nombre": "Cortinas y roller",
+      "descripcion": "Instalacion de conrtinas rollers persianas y demas accesorios para el hogar.",
       "icono": "build",
       "servicios": [
         {
-          "nombre": "Cambio de Bisagras",
-          "descripcion": "Reparación de puertas de muebles de cocina o dormitorio que no cierran bien.",
-          "imagenes": ["reparacion_1.jpg"]
+          "nombre": "Instalacion de Roller y Cortinas",
+          "descripcion": "Instalacion de conrtinas rollers persianas y demas.",
+          "imagenes": ["https://promart.vteximg.com.br/arquivos/ids/9335332-1000-1000/162882.jpg", "https://promart.vteximg.com.br/arquivos/ids/10303396-1000-1000/170171.jpg", "https://promart.vteximg.com.br/arquivos/ids/7968832-1000-1000/151141.jpg"]
         }
       ]
     }
