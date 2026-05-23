@@ -25,9 +25,9 @@
             "https://promart.vteximg.com.br/arquivos/ids/8380628-1000-1000/144766.jpg"
           ]
         },
-         {
+        {
           "nombre": "Muebles de Sala",
-          "descripcion": "Instalación de centros de entretenimiento, Bar, Repisas, adornos",
+          "descripcion": "Instalación de centros de entretenimiento, bar, repisas y adornos.",
           "imagenes": [
             "https://oechsle.vteximg.com.br/arquivos/ids/22049572-1000-1000/2931157.jpg",
             "https://oechsle.vteximg.com.br/arquivos/ids/6125593-1000-1000/2014452_3.jpg",
@@ -40,7 +40,7 @@
     {
       "id": "instalacion_rack",
       "nombre": "Instalación de Racks",
-      "descripcion": "Montaje seguro de racks para TV en todo los tamaños.",
+      "descripcion": "Montaje seguro de racks para TV en todos los tamaños.",
       "icono": "tv",
       "servicios": [
         {
@@ -54,14 +54,14 @@
       ]
     },
     {
-      "id": "Cortinas_Roller",
-      "nombre": "Cortinas y roller",
-      "descripcion": "Instalacion de conrtinas rollers persianas y demas accesorios para el hogar.",
-      "icono": "build",
+      "id": "cortinas_roller",
+      "nombre": "Cortinas y Roller",
+      "descripcion": "Instalación de cortinas roller, persianas y accesorios para el hogar.",
+      "icono": "blinds",
       "servicios": [
         {
-          "nombre": "Instalacion de Roller y Cortinas",
-          "descripcion": "Instalacion de conrtinas rollers persianas y demas.",
+          "nombre": "Instalación de Roller y Cortinas",
+          "descripcion": "Instalación profesional de cortinas roller, persianas y accesorios.",
           "imagenes": [
             "https://promart.vteximg.com.br/arquivos/ids/9335332-1000-1000/162882.jpg",
             "https://promart.vteximg.com.br/arquivos/ids/10303396-1000-1000/170171.jpg",
@@ -79,17 +79,23 @@
         {
           "nombre": "Camas Saltarinas",
           "descripcion": "Armado de camas saltarinas de todos los tamaños con red de protección.",
-          "imagenes": ["https://oechsle.vteximg.com.br/arquivos/ids/23181452-1000-1000/image-0.jpg"]
+          "imagenes": [
+            "https://oechsle.vteximg.com.br/arquivos/ids/23181452-1000-1000/image-0.jpg"
+          ]
         },
         {
           "nombre": "Pérgolas y Toldos",
           "descripcion": "Instalación de pérgolas de madera o metal para jardín.",
-          "imagenes": ["https://oechsle.vteximg.com.br/arquivos/ids/24405539-1000-1000/164354.jpg"]
+          "imagenes": [
+            "https://oechsle.vteximg.com.br/arquivos/ids/24405539-1000-1000/164354.jpg"
+          ]
         },
         {
           "nombre": "Piscinas Estructurales",
           "descripcion": "Armado de piscinas de lona con soportes metálicos.",
-          "imagenes": ["https://oechsle.vteximg.com.br/arquivos/ids/7368730-1000-1000/image-29cf621ffef34efa912609c1049d7758.jpg"]
+          "imagenes": [
+            "https://oechsle.vteximg.com.br/arquivos/ids/7368730-1000-1000/image-29cf621ffef34efa912609c1049d7758.jpg"
+          ]
         }
       ]
     },
@@ -102,7 +108,125 @@
         {
           "nombre": "Campanas Extractoras",
           "descripcion": "Instalación eléctrica y montaje de campanas de cocina.",
-          "imagenes": ["https://oechsle.vteximg.com.br/arquivos/ids/20548632-1000-1000/1709312.jpg"]
+          "imagenes": [
+            "https://oechsle.vteximg.com.br/arquivos/ids/20548632-1000-1000/1709312.jpg"
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "soportes_decoracion",
+      "nombre": "Soportes y Decoración",
+      "descripcion": "Instalación de accesorios decorativos y soportes para el hogar.",
+      "icono": "home",
+      "servicios": [
+        {
+          "nombre": "Repisas y Estantes",
+          "descripcion": "Instalación de repisas flotantes, estantes decorativos y organizadores.",
+          "imagenes": [
+            "https://promart.vteximg.com.br/arquivos/ids/8709225-1000-1000/154313.jpg",
+            "https://promart.vteximg.com.br/arquivos/ids/10479554-1000-1000/168279.jpg"
+          ]
+        },
+        {
+          "nombre": "Cuadros y Espejos",
+          "descripcion": "Instalación segura de cuadros decorativos, espejos y paneles.",
+          "imagenes": [
+            "https://oechsle.vteximg.com.br/arquivos/ids/19649865-1000-1000/1825125.jpg"
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "instalaciones_hogar",
+      "nombre": "Instalaciones para el Hogar",
+      "descripcion": "Servicios de instalación de accesorios y artículos para diferentes espacios.",
+      "icono": "construction",
+      "servicios": [
+        {
+          "nombre": "Soportes para Microondas",
+          "descripcion": "Instalación de bases y soportes metálicos para microondas.",
+          "imagenes": [
+            "https://promart.vteximg.com.br/arquivos/ids/10340567-1000-1000/170296.jpg"
+          ]
+        },
+        {
+          "nombre": "Tendales y Accesorios",
+          "descripcion": "Instalación de tendales de ropa de pared y techo.",
+          "imagenes": [
+            "https://promart.vteximg.com.br/arquivos/ids/10074393-1000-1000/166824.jpg"
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "seguridad_hogar",
+      "nombre": "Seguridad para el Hogar",
+      "descripcion": "Instalación de productos de seguridad y protección.",
+      "icono": "security",
+      "servicios": [
+        {
+          "nombre": "Cerraduras y Pestillos",
+          "descripcion": "Cambio e instalación de cerraduras para puertas principales y dormitorios.",
+          "imagenes": [
+            "https://promart.vteximg.com.br/arquivos/ids/8123212-1000-1000/152397.jpg"
+          ]
+        },
+        {
+          "nombre": "Cámaras de Seguridad",
+          "descripcion": "Instalación de cámaras WiFi y sistemas básicos de vigilancia.",
+          "imagenes": [
+            "https://promart.vteximg.com.br/arquivos/ids/10409278-1000-1000/170093.jpg"
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "iluminacion",
+      "nombre": "Iluminación",
+      "descripcion": "Instalación de luminarias y accesorios eléctricos decorativos.",
+      "icono": "lightbulb",
+      "servicios": [
+        {
+          "nombre": "Lámparas y Plafones",
+          "descripcion": "Instalación de lámparas colgantes, focos LED y plafones.",
+          "imagenes": [
+            "https://promart.vteximg.com.br/arquivos/ids/10296427-1000-1000/170088.jpg"
+          ]
+        },
+        {
+          "nombre": "Luces Decorativas",
+          "descripcion": "Colocación de tiras LED y luces decorativas para interiores.",
+          "imagenes": [
+            "https://promart.vteximg.com.br/arquivos/ids/10442183-1000-1000/170655.jpg"
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "banio",
+      "nombre": "Baño y Accesorios",
+      "descripcion": "Instalación de accesorios y muebles para baño.",
+      "icono": "bathroom",
+      "servicios": [
+        {
+          "nombre": "Accesorios de Baño",
+          "descripcion": "Instalación de toalleros, jaboneras, espejos y organizadores.",
+          "imagenes": [
+            "https://promart.vteximg.com.br/arquivos/ids/10387772-1000-1000/169640.jpg"
+          ]
+        },
+        {
+          "nombre": "Muebles de Baño",
+          "descripcion": "Armado e instalación de muebles y lavamanos.",
+          "imagenes": [
+            "https://promart.vteximg.com.br/arquivos/ids/10350514-1000-1000/170496.jpg"
+          ]
         }
       ]
     }
