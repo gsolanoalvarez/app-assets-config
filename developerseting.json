@@ -1,0 +1,50 @@
+{
+  "version": "2.0",
+  "config": {
+    "s1_b": "https://embed.ksdjugfsddeports.com/embed/",
+    "s2_b": "https://embed.ksdjugfsddeports.com/embed2/",
+    "s3_b": "https://regionales.saohgdasregions.fun/tvenvivo2.php?stream=",
+    "l1_b": "https://www.cablevisionhd.com/imge/",
+    "l2_b": "https://www.tvporinternet2.com/imge/"
+  },
+
+"categorias": [
+    { "id": 1, "name": "Películas" },
+    { "id": 2, "name": "Series" },
+    { "id": 3, "name": "Infantil" },
+    { "id": 4, "name": "Documentales" },
+    { "id": 5, "name": "Entretenimiento" }
+  ],
+  "channels": [
+    { "n": "AMC", "cat": 1, "l": "amc.png", "li": 1, "s1": "amc.php", "s2": "amc.php", "s3": "63_"},
+    { "n": "ANIMAL PLANET", "cat": 4, "l": "animalplanet.png", "li": 1, "s1": "animalplanet.php", "s2": "animalplanet.php", "s3": "46_"},
+    { "n": "AXN", "cat": 5, "l": "axn.png", "li": 1, "s1": "axn.php", "s2": "axn.php", "s3": "61_" },
+    { "n": "CARTOON NETWORK", "cat": 3, "l": "cartoonnetwork.png", "li": 1, "s1": "cartoonnetwork.php", "s2": "cartoonnetwork.php", "s3": "31_"},
+    { "n": "CINECANAL", "cat": 1, "l": "cinecanal.png", "li": 1, "s1": "cinecanal.php", "s2": "cinecanal.php", "s3": "59_" },
+    { "n": "CINEMAX", "cat": 1, "l": "cinemax.png", "li": 1, "s1": "cinemax.php", "s2": "cinemax.php", "s3": "55_" },
+    { "n": "DISCOVERY CHANNEL", "cat": 4, "l": "discoverychannel.png", "li": 1, "s1": "discoverychannel.php", "s2": "discoverychannel.php", "s3": "37_" },
+    { "n": "ID", "cat": 4, "l":"idinvestigation.png", "li": 2, "s1": "idinvestigation.php", "s2": "idinvestigation.php", "s3": "41_" },
+    { "n": "DISCOVERY KIDS", "cat": 3, "l": "discoverykids.png", "li": 2, "s1": "discoverykids.php", "s2": "discoverykids.php", "s3": "30_" },
+    { "n": "DISNEY CHANNEL", "cat": 3, "l": "disneychannel.png", "li": 1, "s1": "disneychannel.php", "s2": "disneychannel.php", "s3": "28_" },
+    { "n": "Distrito Comedia", "cat": 5, "l": "distritocomedia.png", "li": 1, "s1": "distritocomedia.php", "s2": "distritocomedia.php", "s3": "75_" },
+    { "n": "FX","cat": 5, "l": "fx.png", "li": 1, "s1": "fx.php", "s2": "fx.php", "s3": "60_" },
+    { "n": "GOLDEN PREMIER", "cat": 1, "l": "goldenpremier.png", "li": 1, "s1": "goldenpremiere.php", "s2": "goldenpremiere.php", "s3": "70_" },
+    { "n": "GOLDEN EDGE", "cat": 1, "l": "goldenedge.png", "li": 1, "s1": "goldenedge.php", "s2": "goldenedge.php", "s3": "69_" },
+    { "n": "HISTORY", "cat": 4, "l": "history.png", "li": 1, "s1": "history.php", "s2": "history.php", "s3": "44_" },
+    { "n": "HISTORY 2", "cat": 4, "l": "history2.png", "li": 1, "s1": "history2.php", "s2": "history2.php", "s3": "45_" },
+    { "n": "NAT GEO", "cat": 4, "l": "natgeo.png", "li": 1, "s1": "natgeo.php", "s2": "natgeo.php", "s3": "47_" },
+    { "n": "PARAMOUNT", "cat": 1, "l": "paramountchannel.png", "li": 2, "s1": "paramountchannel.php", "s2": "paramountchannel.php", "s3": "62_" },
+    { "n": "canal sony", "cat": 1, "l": "canalsony.png", "li": 1, "s1": "canalsony.php", "s2": "canalsony.php", "s3": "72_" },
+    { "n": "SPACE", "cat": 1, "l": "space.png", "li": 1, "s1": "space.php", "s2": "space.php", "s3": "56_" },
+    { "n": "STAR CHANNEL", "cat": 1, "l": "star.png", "li": 1, "s1": "starchannel.php", "s2": "starchannel.php", "s3": "54_" },
+    { "n": "STUDIO UNIVERSAL", "cat": 1, "l": "studiouniversal.png", "li": 1, "s1": "studiouniversal.php", "s2": "studiouniversal.php", "s3": "64_" },
+    { "n": "TLNOVELAS", "cat": 5, "l": "tlnovelas.png", "li": 2, "s1": "tlnovelas.php", "s2": "tlnovelas.php", "s3": "12_" },
+    { "n": "TNT", "cat": 1, "l": "tnt.png", "li": 1, "s1": "tnt.php", "s2": "tnt.php", "s3": "52_" },
+    { "n": "TNT SERIES", "cat": 2, "l": "tntseries.png", "li": 1, "s1": "tntseries.php", "s2": "tntseries.php", "s3": "53_" },
+    { "n": "TOONCAST", "cat": 3, "l": "tooncast.png", "li": 1, "s1": "tooncast.php", "s2": "tooncast.php", "s3": "32_" },
+    { "n": "UNIVERSAL CINEMA", "cat": 1, "l": "universalcinema.png", "li": 2, "s1": "universalcinema.php", "s2": "universalcinema.php", "s3": "51_" },
+    { "n": "UNIVERSAL TV", "cat": 1, "l": "universalchannel.png", "li": 1, "s1": "universaltv.php", "s2": "universaltv.php", "s3": "49_" },
+    { "n": "UNIVISION", "cat": 5, "l": "univision.png", "li": 1, "s1": "univision.php", "s2": "univision.php", "s3": "9_" },
+    { "n": "WARNER", "cat": 1, "l": "warner.png", "li": 1, "s1": "warnerchannel.php", "s2": "warnerchannel.php", "s3": "58_" }
+  ]
+}
