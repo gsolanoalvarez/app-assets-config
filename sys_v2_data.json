@@ -1,15 +1,15 @@
 {
   "version": "1.1",
   "config": {
-    "s1_b": "https://embed.ksdjugfsddeports.com/embed/",
-    "s2_b": "https://embed.ksdjugfsddeports.com/embed2/",
-    "s3_b": "https://regionales.saohgdasregions.fun/tvenvivo2.php?stream=",
+    "s1_b": "https://embed.ksdjugfsddeports.com/embed2/",
+    "s2_b": "https://embed.saohgdasregions.fun/embed2/",
+    "s3_b": "https://www.tvporinternet2.com/live/core.php?canal=",
     "l1_b": "https://www.cablevisionhd.com/imge/",
     "l2_b": "https://www.tvporinternet2.com/imge/"
   },
   "channels": [
-    { "n": "AMC", "l": "amc.png", "li": 1, "s1": "amc.php", "s2": "amc.php", "s3": "63_"},
-    { "n": "ANIMAL PLANET", "l": "animalplanet.png", "li": 1, "s1": "animalplanet.php", "s2": "animalplanet.php", "s3": "46_"},
+    { "n": "AMC", "l": "amc.png", "li": 1, "s1": "amc.php", "s2": "amc.php", "s3": "amc"},
+    { "n": "ANIMAL PLANET", "l": "animalplanet.png", "li": 1, "s1": "animalplanet.php", "s2": "animalplanet.php", "s3": "animalplanet"},
     { "n": "AXN", "l": "axn.png", "li": 1, "s1": "axn.php", "s2": "axn.php", "s3": "61_" },
     { "n": "CARTOON NETWORK", "l": "cartoonnetwork.png", "li": 1, "s1": "cartoonnetwork.php", "s2": "cartoonnetwork.php", "s3": "31_"},
     { "n": "CINECANAL", "l": "cinecanal.png", "li": 1, "s1": "cinecanal.php", "s2": "cinecanal.php", "s3": "59_" },
